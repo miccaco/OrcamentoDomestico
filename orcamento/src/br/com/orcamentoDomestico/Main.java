@@ -1,4 +1,4 @@
-package src.br.com.orcamentoDomestico;
+package br.com.orcamentoDomestico;
 
 import javax.swing.UIManager;
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;
